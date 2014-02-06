@@ -1,3 +1,6 @@
 [submodule "bundle/composer"]
 	path = bundle/composer
 	url = git@github.com:vim-scripts/composer.vim.git
+[submodule "bundle/cntrlp"]
+	path = bundle/cntrlp
+	url = git@github.com:kien/ctrlp.vim.git
