@@ -10,3 +10,6 @@
 [submodule "bundle/git"]
 	path = bundle/git
 	url = git@github.com:motemen/git-vim.git
+[submodule "bundle/markdown"]
+	path = bundle/markdown
+	url = git@github.com:plasticboy/vim-markdown.git
