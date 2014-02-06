@@ -1,0 +1,3 @@
+[submodule "bundle/composer"]
+	path = bundle/composer
+	url = git@github.com:vim-scripts/composer.vim.git
