@@ -13,3 +13,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "bundle/php"]
+	path = bundle/php
+	url = git@github.com:StanAngeloff/php.vim.git
