@@ -1,18 +1,18 @@
 [submodule "bundle/composer"]
 	path = bundle/composer
-	url = git@github.com:vim-scripts/composer.vim.git
+	url = https://github.com/vim-scripts/composer.vim.git
 [submodule "bundle/cntrlp"]
 	path = bundle/cntrlp
-	url = git@github.com:kien/ctrlp.vim.git
+	url = https://github.com/kien/ctrlp.vim.git
 [submodule "bundle/blade"]
 	path = bundle/blade
-	url = git@github.com:xsbeats/vim-blade.git
+	url = https://github.com/xsbeats/vim-blade.git
 [submodule "bundle/git"]
 	path = bundle/git
-	url = git@github.com:motemen/git-vim.git
+	url = https://github.com/motemen/git-vim.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
-	url = git@github.com:plasticboy/vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "bundle/php"]
 	path = bundle/php
-	url = git@github.com:StanAngeloff/php.vim.git
+	url = https://github.com/StanAngeloff/php.vim.git
