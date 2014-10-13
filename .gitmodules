@@ -16,3 +16,15 @@
 [submodule "bundle/php"]
 	path = bundle/php
 	url = https://github.com/StanAngeloff/php.vim.git
+[submodule "bundle/SyntaxRange"]
+	path = bundle/SyntaxRange
+	url = https://github.com/vim-scripts/SyntaxRange.git
+[submodule "bundle/Asif"]
+	path = bundle/Asif
+	url = https://github.com/dahu/Asif.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-asciidoc"]
+	path = bundle/vim-asciidoc
+	url = https://github.com/dahu/vim-asciidoc.git
