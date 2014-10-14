@@ -28,3 +28,6 @@
 [submodule "bundle/vim-asciidoc"]
 	path = bundle/vim-asciidoc
 	url = https://github.com/dahu/vim-asciidoc.git
+[submodule "bundle/vim-auto-save"]
+	path = bundle/vim-auto-save
+	url = https://github.com/907th/vim-auto-save.git
