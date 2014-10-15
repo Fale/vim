@@ -31,3 +31,6 @@
 [submodule "bundle/vim-auto-save"]
 	path = bundle/vim-auto-save
 	url = https://github.com/907th/vim-auto-save.git
+[submodule "bundle/vim-puppet"]
+	path = bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
