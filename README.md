@@ -6,4 +6,4 @@
 	git submodule update
 	cd ..
 	mv vim .vim
-	mv .vim/vimrc .vimrc
+	ln -s .vim/vimrc .vimrc

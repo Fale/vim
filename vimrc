@@ -15,3 +15,5 @@ let g:ctrlp_user_command = "find %s -type f | egrep -v '/.(git|hg|svn)|solr|vend
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+let g:vim_markdown_folding_disabled=1
