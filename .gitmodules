@@ -4,9 +4,6 @@
 [submodule "bundle/cntrlp"]
 	path = bundle/cntrlp
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "bundle/blade"]
-	path = bundle/blade
-	url = https://github.com/xsbeats/vim-blade.git
 [submodule "bundle/git"]
 	path = bundle/git
 	url = https://github.com/motemen/git-vim.git
@@ -19,9 +16,6 @@
 [submodule "bundle/SyntaxRange"]
 	path = bundle/SyntaxRange
 	url = https://github.com/vim-scripts/SyntaxRange.git
-[submodule "bundle/Asif"]
-	path = bundle/Asif
-	url = https://github.com/dahu/Asif.git
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
