@@ -1,33 +1,9 @@
-[submodule "bundle/composer"]
-	path = bundle/composer
-	url = https://github.com/vim-scripts/composer.vim.git
-[submodule "bundle/cntrlp"]
-	path = bundle/cntrlp
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "bundle/git"]
-	path = bundle/git
-	url = https://github.com/motemen/git-vim.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = https://github.com/plasticboy/vim-markdown.git
-[submodule "bundle/php"]
-	path = bundle/php
-	url = https://github.com/StanAngeloff/php.vim.git
-[submodule "bundle/SyntaxRange"]
-	path = bundle/SyntaxRange
-	url = https://github.com/vim-scripts/SyntaxRange.git
-[submodule "bundle/tlib_vim"]
-	path = bundle/tlib_vim
-	url = https://github.com/tomtom/tlib_vim.git
 [submodule "bundle/vim-asciidoc"]
 	path = bundle/vim-asciidoc
 	url = https://github.com/dahu/vim-asciidoc.git
-[submodule "bundle/vim-auto-save"]
-	path = bundle/vim-auto-save
-	url = https://github.com/907th/vim-auto-save.git
-[submodule "bundle/vim-puppet"]
-	path = bundle/vim-puppet
-	url = https://github.com/rodjek/vim-puppet.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
