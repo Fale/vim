@@ -17,3 +17,6 @@ set shiftwidth=4
 set expandtab
 
 let g:vim_markdown_folding_disabled=1
+
+set laststatus=2
+let g:airline_powerline_fonts = 1
