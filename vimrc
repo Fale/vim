@@ -16,7 +16,12 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+" markdown
 let g:vim_markdown_folding_disabled=1
 
+" vim-airline
 set laststatus=2
 let g:airline_powerline_fonts = 1
+
+" vim-ansible-yaml
+let g:ansible_options = {'ignore_blank_lines': 0}
