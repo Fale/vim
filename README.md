@@ -33,4 +33,4 @@
     rm -rf vim-export
 
 ## Fonts
-On workstation, [https://github.com/powerline/fonts.git](these) fonts are needed.
+On workstation, [these](https://github.com/powerline/fonts) fonts are needed.
