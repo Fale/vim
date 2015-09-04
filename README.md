@@ -31,3 +31,6 @@
     scp vim.tar.gz fale@fedorapeople.org:/home/fedora/fale/public_html/
     cd ..
     rm -rf vim-export
+
+## Fonts
+On workstation, [these](https://github.com/powerline/fonts) fonts are needed.
