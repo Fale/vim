@@ -24,6 +24,8 @@ set title                " change the terminal's title
 set visualbell           " don't beep
 set noerrorbells         " don't beep
 
+colorscheme fruit
+
 "Use CtrlP for file management
 set runtimepath^=~/.vim/bundle/ctrlp.vim 
 set nocp
