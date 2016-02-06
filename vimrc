@@ -5,7 +5,7 @@ call pathogen#infect() "Add Pathogen package manager
 " http://nvie.com/posts/how-i-boosted-my-vim/
 "
 " Basic stuff
-set nowrap                      " don't wrap lines
+"set nowrap                      " don't wrap lines
 set backspace=indent,eol,start  " allow backspacing over everything in insert mode
 "set autoindent                  " always set autoindenting on
 "set copyindent                  " copy the previous indentation on autoindenting
